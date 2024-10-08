@@ -62,7 +62,7 @@ mysqli_close($db);
         </ol>
             </div>
     <div id="stopka">
-        <p>Stronę wykonał: 123456789112</p>
+        <p>Stronę wykonał: Antoni Bartosik</p>
     </div>
 </body>
 </html>
